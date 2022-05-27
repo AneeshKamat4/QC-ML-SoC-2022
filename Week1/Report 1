@@ -1,0 +1,14 @@
+In Week 1, I read the recommended readings from QCQI - pages 13-36 and 61-86 which introduced 
+- a "qubit" and its geometric representation in a Bloch sphere
+- two qubit states like the Bell(EPR) state and emphasized the relative strength of measurement correlations over classical analogues
+- representation of quantum gates as matrices
+- the Z and Hadamard single qubit gates
+- the controlled NOT (CNOT) quantum gate as an analogue to the classical XOR gate
+- the intuition behind using reversible quantum gates to model irreversible classical gates
+- the elements in a quantum circuit
+- the no-cloning theorem 
+- quantum teleportation as subject to some transfer of classical information thus preserving special relativity
+- quantum algorithms, the Toffoli gate and its use in simulating irreversible classical logic gates and FANOUT
+- quantum parallelism and the Hadamard transform
+- Deutsch's algorithm and the quantum circuit implementing it
+- Deutsch-Jozsa algorithm or Deutsch's problem and the quantum circuit implementing it
